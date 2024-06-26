@@ -13,6 +13,7 @@ https://github.com/lhns/docker-swarm-keepalived
 
 mesh network:
 https://docs.docker.com/engine/swarm/ingress/
+https://stackoverflow.com/questions/69600893/docker-swarm-routing-mesh
 
 settings for docker compose traefik:
 https://doc.traefik.io/traefik/reference/static-configuration/cli/
