@@ -10,3 +10,9 @@ https://github.com/ChristianLempa/boilerplates/blob/main/docker-compose/traefik/
 
 containers:
 https://github.com/lhns/docker-swarm-keepalived
+
+mesh network:
+https://docs.docker.com/engine/swarm/ingress/
+
+settings for docker compose traefik:
+https://doc.traefik.io/traefik/reference/static-configuration/cli/
