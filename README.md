@@ -21,4 +21,6 @@ settings for docker compose traefik:
 * https://doc.traefik.io/traefik/reference/static-configuration/cli/
 
 deploying portainer:
-`docker stack deploy -c portainer-agent-stack.yml portainer`
+```sh
+docker stack deploy -c portainer-agent-stack.yml portainer
+```
