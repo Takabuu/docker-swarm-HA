@@ -3,6 +3,8 @@
 Installation:
 https://github.com/JamesTurland/JimsGarage/blob/main/Docker-Swarm/swarm.sh
 
+glusterfs fix for mount:
+https://stanislas.blog/2018/10/how-to-mount-local-glusterfs-volume-boot-fstab-systemd-fix/
 
 Config:
 https://blog.antosubash.com/posts/part-2-setup-docker-swarm-with-traefik-and-portainer
