@@ -5,6 +5,7 @@ Installation:
 
 glusterfs fix for mount:
 * https://stanislas.blog/2018/10/how-to-mount-local-glusterfs-volume-boot-fstab-systemd-fix/
+* https://serverfault.com/questions/800494/glusterfs-mount-on-boot-on-clustered-servers-rhel-7
 
 Config:
 * https://blog.antosubash.com/posts/part-2-setup-docker-swarm-with-traefik-and-portainer
