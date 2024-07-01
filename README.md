@@ -9,6 +9,9 @@ glusterfs fix for mount:
 
 Config:
 * https://blog.antosubash.com/posts/part-2-setup-docker-swarm-with-traefik-and-portainer **Traefik Network**
+```sh
+docker network create --driver overlay traefik-public
+```
 * https://github.com/ChristianLempa/boilerplates/blob/main/docker-compose/traefik/config/traefik.yaml **Traefik Yaml (Doesn't Work)**
 
 Let's Encrypt:
@@ -24,7 +27,7 @@ mesh network:
 * https://docs.docker.com/engine/swarm/ingress/
 * https://stackoverflow.com/questions/69600893/docker-swarm-routing-mesh
 
-settings for docker compose traefik:
+settings for docker compose (commands) traefik:
 * https://doc.traefik.io/traefik/reference/static-configuration/cli/
 
 deploying portainer:
