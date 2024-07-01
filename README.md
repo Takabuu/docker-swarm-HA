@@ -11,6 +11,10 @@ Config:
 * https://blog.antosubash.com/posts/part-2-setup-docker-swarm-with-traefik-and-portainer
 * https://github.com/ChristianLempa/boilerplates/blob/main/docker-compose/traefik/config/traefik.yaml
 
+Let's Encrypt:
+* https://go-acme.github.io/lego/dns/porkbun/
+* https://doc.traefik.io/traefik/user-guides/docker-compose/acme-dns/#prerequisite
+
 containers:
 * https://github.com/lhns/docker-swarm-keepalived
 
