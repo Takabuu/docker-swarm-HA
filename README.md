@@ -9,7 +9,7 @@ glusterfs fix for mount:
 
 Config:
 * https://blog.antosubash.com/posts/part-2-setup-docker-swarm-with-traefik-and-portainer **Traefik Network**
-* https://github.com/ChristianLempa/boilerplates/blob/main/docker-compose/traefik/config/traefik.yaml
+* https://github.com/ChristianLempa/boilerplates/blob/main/docker-compose/traefik/config/traefik.yaml **Traefik Yaml (Doesn't Work)**
 
 Let's Encrypt:
 * https://doc.traefik.io/traefik/https/acme/#providers
