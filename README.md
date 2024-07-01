@@ -16,10 +16,11 @@ Let's Encrypt:
 * https://go-acme.github.io/lego/dns/porkbun/
 * https://doc.traefik.io/traefik/user-guides/docker-compose/acme-dns/#prerequisite
 
-containers:
+Keepalived:
 * https://github.com/lhns/docker-swarm-keepalived
 
 mesh network:
+* **Wird durch Traefik-public Network gmacht.**
 * https://docs.docker.com/engine/swarm/ingress/
 * https://stackoverflow.com/questions/69600893/docker-swarm-routing-mesh
 
