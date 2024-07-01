@@ -12,6 +12,7 @@ Config:
 * https://github.com/ChristianLempa/boilerplates/blob/main/docker-compose/traefik/config/traefik.yaml
 
 Let's Encrypt:
+* https://doc.traefik.io/traefik/https/acme/#providers
 * https://go-acme.github.io/lego/dns/porkbun/
 * https://doc.traefik.io/traefik/user-guides/docker-compose/acme-dns/#prerequisite
 
