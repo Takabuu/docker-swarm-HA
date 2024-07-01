@@ -8,7 +8,7 @@ glusterfs fix for mount:
 * https://serverfault.com/questions/800494/glusterfs-mount-on-boot-on-clustered-servers-rhel-7
 
 Config:
-* https://blog.antosubash.com/posts/part-2-setup-docker-swarm-with-traefik-and-portainer
+* https://blog.antosubash.com/posts/part-2-setup-docker-swarm-with-traefik-and-portainer **Traefik Network**
 * https://github.com/ChristianLempa/boilerplates/blob/main/docker-compose/traefik/config/traefik.yaml
 
 Let's Encrypt:
